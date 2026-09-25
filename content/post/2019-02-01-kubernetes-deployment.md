@@ -7,4 +7,5 @@ tags: ["Kubernetes", "code"]
 First application on Kubernetes using Kubernetes deployments.
 
 ```sh
-$kubectl run kubernetes-bootcamp$ kubectl get pods
+kubectl run kubernetes-bootcamp
+kubectl get pods
